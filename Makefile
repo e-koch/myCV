@@ -2,7 +2,7 @@
 
 # Basic settings
 
-toolsdir = ..
+toolsdir = ../worklog-tools
 
 # `make` targets are:
 #
