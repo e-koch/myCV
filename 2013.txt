@@ -1,0 +1,43 @@
+
+[award]
+date = 2013
+where = University of British Columbia, Okanagan
+what = Upper Year Physics Award
+
+[award]
+date = 2013
+where = University of British Columbia, Okanagan
+what = Top Oral Presenter - UBC-O Undergraduate Research Conference
+
+[job]
+date = 2013-2014
+where = University of British Columbia, Okanagan
+what = Research Assistant for Dr. Jason Loeppky
+
+[award]
+date = 2013
+where = University of Alberta
+what = NSERC USRA
+
+[job]
+date = 2011-2013
+where = University of British Columbia, Okanagan
+what = Teaching Assistant
+
+[talk]
+date = 2013 Apr
+where = UBC-O Undergraduate Research Conference (Kelowna)
+what = Converging Flows in Star-Forming Regions
+invited = n
+
+[poster]
+date = 2013 Jun
+where = Canadian Astronomical Society Conference (Vancouver)
+what = UBC-O Undergraduate Research Conference
+invited = n
+
+[talk]
+date = 2013 Nov
+where = UBC-O Brown Bag Series (Kelowna)
+what = A New Low-Mass X-Ray Binary in the Galactic Centre
+invited = y

@@ -1,0 +1,41 @@
+
+[award]
+date = 2014
+where = University of Alberta
+what = NSERC CGSM - $17,500 CAD
+
+[award]
+date = 2014
+where = University of British Columbia, Okanagan
+what = Distinguished Graduate Award - Physics, Math, Statistics & Computer Science
+
+[award]
+date = 2010-2014
+where = University of British Columbia, Okanagan
+what = Deputy Vice Chancellor Scholarship - $1,500 CAD each year
+
+[job]
+date = 2014–present
+where = University of Alberta
+what = Graduate Student
+
+[pub]
+authors = E.W. Koch; A, Bahramian; C.O., Heinke; K, Mori;
+    N., Rea; N., Degenaar; D., Haggard; R., Wijnands;
+    G., Ponti; J.M., Miller; F., Yusef-Zadeh; F., Dufour;
+    W.D., Cotton; F.K., Baganoff; M.T., Reynolds
+title = The 2013 outburst of a transient very faint X-ray binary, 23 arcsec from Sgr A*
+mypos = 1
+refereed = y
+pubdate = 2014/07
+cite = MNRAS 442 372-381
+arxiv = 1405.0267
+bibcode = 2014MNRAS.442..372K
+doi = 10.1093/mnras/stu887
+adscites = 2015/12/21 4
+
+[talk]
+date = 2014 Apr
+where = UBC-O Undergraduate Research Conference (Kelowna)
+what = Filament Identification through Mathematical Morphology
+invited = n
