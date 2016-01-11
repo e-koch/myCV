@@ -12,7 +12,7 @@ what = Top Oral Presenter - UBC-O Undergraduate Research Conference
 [job]
 date = 2013-2014
 where = University of British Columbia, Okanagan
-what = Research Assistant for Dr. Jason Loeppky
+what = Research Assistant
 
 [award]
 date = 2013
