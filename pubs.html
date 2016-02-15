@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!-- This work is dedicated to the public domain. -->
+
+<!-- Peter Williams' HTML template for a publications list
+
+Unlike the LaTeX template, I can't use variables to parametrize my name and
+info. I've marked text that needs updating with "XXX" comments.
+
+Note that this list looks significantly different than the PDF publication
+list. I feel that on the web it makes sense to take a different approach.
+
+I also haven't spent as much time beautifying this page as I have the LaTeX
+templates. My actual publication list is embedded in a Wordpress site that
+does a bunch of the CSS fanciness automatically, and it'd be a lot of work to
+extract all of that magic. -->
+
+
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Eric W. Koch: Publications</title> <!--XXX-->
+    <style type="text/css" media="all">
+#container { width: 80%; margin: auto; }
+#pwpubs { border-collapse: collapse; }
+#pwpubs tr { vertical-align: top; border-top: 1px #777 solid; }
+#pwpubs td { padding-bottom: 10px; }
+#pwpubs_date { width: 12ex; }
+#pwpubs_ref { width: 2ex; }
+#pwpubs td.tauth { padding-right: 2ex; }
+#pwpubs_ads, #pwpubs_arxiv, #pwpubs_doi, #pwpubs_direct { width: 10ex; }
+.pwpubs_title { font-size: larger; }
+.pwpubs_ftitle { font-size: larger; font-weight: bold; }
+.pwpubs_auth { font-style: italic; }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <p>Below is an list of my publications, updated as of
+Feb 15, 2016.
+      First-author works have their <span style="font-weight: bold">titles in
+      bold</span>; refereed works are marked with a guillemet (»).
+      The names of directly-supervised students are underlined.
+      My <a href="/cv.html">full CV</a> is also online.
+<a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets and were last updated around
+Feb 15, 2016. As of then, I was an author on 2 refereed
+publications (2 as first author), my <i>h</i>-index was 2 and
+my refereed publications had 6 citations.
+
+      </p>
+
+<!-- well this is less than ideal, but whatever. -->
+
+
+      <table id="pwpubs">
+	<col id="pwpubs_date" /> <col id="pwpubs_ref" /> <col id="pwpubs_tauth" />
+	<col id="pwpubs_ads" /> <col id="pwpubs_arxiv" /> <col id="pwpubs_doi" /> <col id="pwpubs_direct" />
+<tr><td>2016 Jan</td><td></td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>Tools for Critically Evaluating Simulations of Star Formation</b></span> <br><span class="pwpubs_auth">EWK et al.</span> • MNRAS submitted</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2015 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>Filament Identification through Mathematical Morphology</b></span> <br><span class="pwpubs_auth">EWK &amp; Rosolowsky</span> • MNRAS 452 3435-3450</td><td><a href="http://adsabs.harvard.edu/abs/2015MNRAS.452.3435K">abstract</a></td><td><a href="http://arxiv.org/abs/1507.02289">preprint</a></td><td><a href="http://dx.doi.org/10.1093/mnras/stv1521">official</a></td><td></td></tr>
+<tr><td>2014 Jul</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>The 2013 outburst of a transient very faint X-ray binary, 23 arcsec from Sgr A*</b></span> <br><span class="pwpubs_auth">EWK et al.</span> • MNRAS 442 372-381</td><td><a href="http://adsabs.harvard.edu/abs/2014MNRAS.442..372K">abstract</a></td><td><a href="http://arxiv.org/abs/1405.0267">preprint</a></td><td><a href="http://dx.doi.org/10.1093/mnras/stu887">official</a></td><td></td></tr>
+      </table>
+
+    </div>
+  </body>
+</html>
