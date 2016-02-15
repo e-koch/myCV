@@ -1,12 +1,12 @@
 
 [talk]
 date = 2016 Feb
-where = MPIfR
+where = MPIfR - Special Colloquium
 what = Comparing Simulations and Observations of Star Formation using Experimental Design
 invited = n
 
 [talk]
 date = 2016 Feb
-where = MPE
+where = MPE - CAS Seminar
 what = Comparing Simulations and Observations of Star Formation using Experimental Design
 invited = n
