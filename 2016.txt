@@ -1,0 +1,12 @@
+
+[talk]
+date = 2016 Feb
+where = MPIfR
+what = Comparing Simulations and Observations of Star Formation using Experimental Design
+invited = n
+
+[talk]
+date = 2016 Feb
+where = MPE
+what = Comparing Simulations and Observations of Star Formation using Experimental Design
+invited = n
