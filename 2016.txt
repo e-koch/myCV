@@ -22,17 +22,14 @@ where = Lorentz Centre - Apples to Apples Workshop
 what = Identifying Tools for Comparing Simulations and Observations of Star-forming Regions
 
 [pub]
-author = Lin, Y.; Liu, H.B.; Li, D.; Zhang, Z.; 
-    Ginsburg, A.; Pineda, J.E.; Qian, L.; Galv\'an-Madrid, R.; 
-    McLeod, A.F.; Rosolowsky, E.; Dale, J.E.; Immer, K.; 
-    Koch, E.; Longmore, S.; Walker, D.; Testi, L.
+authors = Y., Lin; Liu, H.B.; Li, D.; Zhang, Z.; Ginsburg, A.; Pineda, J.E.; Qian, L.; Galvan-Madrid, R.; McLeod, A.F.; Rosolowsky, E.; Dale, J.E.; Immer, K.; Koch, E.; Longmore, S.; Walker, D.; Testi, L.
 title = Cloud Structure of Galactic OB Cluster Forming Regions from Combining Ground and Space Based Bolometric Observations
-arxiv = 1606.07645,
-year = 2016,
+arxiv = 1606.07645
+year = 2016
 mypos = 13
 refereed = y
-pubdate = In press
-cite = In press
+pubdate = 2016/12
+cite = ApJ, in press
 # bibcode = 2014MNRAS.442..372K
 # doi = 
 
@@ -42,7 +39,7 @@ title = Identifying Tools for Comparing Simulations of Star Formation
 mypos = 1
 refereed = n
 refpreprint = y
-pubdate = --
+pubdate = 2016/12
 year = 2016
 cite = MNRAS submitted
 # arxiv = 1507.02289
