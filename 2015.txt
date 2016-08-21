@@ -37,19 +37,6 @@ bibcode = 2015MNRAS.452.3435K
 doi = 10.1093/mnras/stv1521
 adscites = 2016/02/15 2
 
-[pub]
-authors = Eric W. Koch; Caleb G. Ward; Stella Offner; Jason Loeppky; Erik Rosolowsky
-title = Tools for Critically Evaluating Simulations of Star Formation
-mypos = 1
-refereed = n
-refpreprint = y
-pubdate = 2016/01
-year = 2015
-cite = MNRAS submitted
-# arxiv = 1507.02289
-# bibcode = 2015MNRAS.452.3435K
-# doi = 10.1093/mnras/stv1521
-
 [talk]
 date = 2015 May
 where = Florence Simulations-Observations Workshop (Florence, Italy)
