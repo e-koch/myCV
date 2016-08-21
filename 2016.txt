@@ -10,3 +10,13 @@ date = 2016 Feb
 where = MPE - CAS Seminar
 what = Comparing Simulations and Observations of Star Formation using Experimental Design
 invited = n
+
+[award]
+date = 2016
+where = University of Alberta
+what = NSERC Post-graduate Graduate Scholarship - Doctorate
+
+[talk]
+date = 2016 Aug
+where = Lorentz Centre - Apples to Apples Workshop
+what = Identifying Tools for Comparing Simulations and Observations of Star-forming Regions
