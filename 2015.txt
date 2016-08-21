@@ -2,7 +2,7 @@
 [award]
 date = 2015
 where = University of Alberta
-what = Queen Elizabeth II MSc Scholarship - $10,800 CAD
+what = Queen Elizabeth II MSc Scholarship
 
 [grant]
 date = 2015

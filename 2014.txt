@@ -2,7 +2,7 @@
 [award]
 date = 2014
 where = University of Alberta
-what = NSERC CGSM - $17,500 CAD
+what = NSERC Canadian Graduate Scholarship - Masters
 
 [award]
 date = 2014
@@ -12,7 +12,7 @@ what = Distinguished Graduate Award - Physics, Math, Statistics & Computer Scien
 [award]
 date = 2010-2014
 where = University of British Columbia, Okanagan
-what = Deputy Vice Chancellor Scholarship - $1,500 CAD each year
+what = Deputy Vice Chancellor Scholarship
 
 [job]
 date = 2014–present

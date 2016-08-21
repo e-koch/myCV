@@ -2,4 +2,4 @@
 [award]
 date = 2010
 where = University of British Columbia, Okanagan
-what = President's Entrance Scholarship - $2,500 CAD
+what = President's Entrance Scholarship
