@@ -33,7 +33,7 @@ invited = n
 [poster]
 date = 2013 Jun
 where = Canadian Astronomical Society Conference (Vancouver)
-what = UBC-O Undergraduate Research Conference
+what = Converging Flows in Star-Forming Regions
 invited = n
 
 [talk]
