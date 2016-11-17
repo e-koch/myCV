@@ -35,7 +35,7 @@ cite = MNRAS 452 3435-3450
 arxiv = 1507.02289
 bibcode = 2015MNRAS.452.3435K
 doi = 10.1093/mnras/stv1521
-adscites = 2016/08/21 7
+adscites = 2016/11/17 7
 
 [talk]
 date = 2015 May
