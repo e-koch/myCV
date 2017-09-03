@@ -31,28 +31,16 @@ arxiv = 1606.07645
 doi = 10.3847/0004-637X/828/1/32
 refereed = y
 cite = ApJ 828 32
-adscites = 2016/11/17 1
+adscites = 2017/09/03 9
 
 [pub]
 title = An Exploration of the Statistical Signatures of Stellar Feedback
 authors = R. D. Boyden; E. W. Koch; E. W. Rosolowsky; S. S. R. Offner
 mypos = 2
-pubdate = 2016/11
-bibcode = 2016arXiv161100781B
+pubdate = 2016/12
+bibcode = 2016ApJ...833..233B
 arxiv = 1611.00781
 refereed = y
-cite = arxiv:1611.00781
-adscites = 2016/11/17 0
-
-[pub]
-authors = Eric W. Koch; Caleb G. Ward; Stella Offner; Jason Loeppky; Erik Rosolowsky
-title = Identifying Tools for Comparing Simulations of Star Formation
-mypos = 1
-refereed = n
-refpreprint = y
-pubdate = 2016/12
-year = 2016
-cite = MNRAS submitted
-# arxiv = 1507.02289
-# bibcode = 2015MNRAS.452.3435K
-# doi = 10.1093/mnras/stv1521
+cite = ApJ 833 233
+doi = 10.3847/1538-4357/833/2/233
+adscites = 2017/09/03 1
