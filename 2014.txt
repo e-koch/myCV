@@ -20,10 +20,10 @@ where = University of Alberta
 what = Graduate Student
 
 [pub]
-authors = E.W. Koch; A, Bahramian; C.O., Heinke; K, Mori;
-    N., Rea; N., Degenaar; D., Haggard; R., Wijnands;
-    G., Ponti; J.M., Miller; F., Yusef-Zadeh; F., Dufour;
-    W.D., Cotton; F.K., Baganoff; M.T., Reynolds
+authors = E.W. Koch; A. Bahramian; C.O. Heinke; K. Mori;
+    N. Rea; N. Degenaar; D. Haggard; R. Wijnands;
+    G. Ponti; J.M. Miller; F. Yusef-Zadeh; F. Dufour;
+    W.D. Cotton; F.K. Baganoff; M.T. Reynolds
 title = The 2013 outburst of a transient very faint X-ray binary, 23 arcsec from Sgr A*
 mypos = 1
 refereed = y
@@ -32,7 +32,7 @@ cite = MNRAS 442 372-381
 arxiv = 1405.0267
 bibcode = 2014MNRAS.442..372K
 doi = 10.1093/mnras/stu887
-adscites = 2017/09/03 4
+adscites = 2019/01/04 4
 
 [talk]
 date = 2014 Apr

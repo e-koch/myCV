@@ -11,9 +11,72 @@ cite = RNAAS 2 24
 arxiv = 1801.10568
 bibcode = 2018RNAAS...2a..24K
 doi = 10.3847/2515-5172/aaac33
-adscites = 2018/06/04 0
+adscites = 2019/01/04 1
 
 [talk]
 date = 2018 May
-where = Olympian Symposium
+where = Olympian Symposium, Paralia Katerini, Greece
 what = Spatially-Varying Turbulent Properties in M33
+invited = n
+
+[outreach]
+date = 2018 May
+what = Viewing the Sky with Radio Interferometry
+where = Northern Alberta Radio Club (Edmonton)
+
+[pub]
+authors = Ryan D. Boyden; Stella S.R. Offner; Eric W. Koch; Erik W. Rosolowsky
+title = Assessing the Impact of Astrochemistry on Molecular Cloud Turbulence Statistics
+mypos = 3
+refereed = y
+refpreprint = n
+pubdate = 2018/06
+year = 2018
+cite = ApJ 860 157
+arxiv = 1805.09775
+bibcode = 2018ApJ...860..157B
+doi = 10.3847/1538-4357/aac76d
+adscites = 2019/01/04 0
+
+[pub]
+authors = Eric W. Koch; Erik W. Rosolowsky; Felix J. Lockman; Amanda A. Kepley; Adam Leroy; Andreas Schruba; Jonathan Braine; Julianne Dalcanton; Megan C. Johnson; Snežana Stanimirović
+title = Kinematics of the atomic ISM in M33 on 80 pc scales
+mypos = 1
+refereed = y
+refpreprint = n
+pubdate = 2018/09
+year = 2018
+cite = MNRAS 479 2505-2533
+arxiv = 1806.11218
+bibcode = 2018MNRAS.479.2505K
+doi = 10.1093/mnras/sty1674
+adscites = 2019/01/04 2
+
+[talk]
+date = 2018 July
+where = PHAT/M33 Team Meeting, Ringberg, Germany
+what = Atomic Gas in M31 and M33
+invited = n
+
+[talk]
+date = 2018 August
+where = CHANG-ES Team Meeting, Calgary, Canada
+what = De-obfuscating HI & CO Comparisons in M33
+invited = n
+
+[outreach]
+date = 2018 December
+what = Unravelling Star Formation
+where = Royal Astronomical Society of Canada (Edmonton Centre)
+
+[pub]
+authors = Eric Koch; Erik Rosolowsky; Adam K. Leroy
+title = Radio-line Broadening from a Spectral Response Function
+mypos = 1
+refereed = n
+refpreprint = n
+pubdate = 2018/12
+year = 2018
+cite = RNAAS 2 220
+bibcode = 2018RNAAS...2d.220K
+doi = 10.3847/2515-5172/aaf508adscites = 2019/01/04 0

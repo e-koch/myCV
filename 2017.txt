@@ -1,3 +1,8 @@
+[outreach]
+date = 2017 February
+what = Blowing Bubbles in a Galaxy
+where = University of Alberta Observatory Public Observing Night
+
 [pub]
 authors = Y. Lin; H.B. Liu; J.E. Dale; D. Li; G. Busquet; Z.Y. Zhang; A. Ginsburg; R. Galvan-Madrid; A. Kovacs; E. Koch; L. Qian; K. Wang; S. Longmore; H.R. Chen; D. Walker
 title = Cloud Structure of Three Galactic Infrared Dark Star-forming Regions from Combining Ground- and Space-based Bolometric Observations
@@ -10,12 +15,18 @@ cite = ApJ 840 22
 arxiv = 1704.06448
 bibcode = 2017ApJ...840...22L
 doi = 10.3847/1538-4357/aa6c67
-adscites = 2017/09/03 1
+adscites = 2019/01/04 7
 
 [talk]
 date = 2017 June
-where = CASCA
+where = Canadian Astronomical Society (CASCA) Meeting, Edmonton, Canada
 what = Linking the Atomic and Molecular ISM in M33
+invited = n
+
+[award]
+date = 2017
+where = University of Alberta
+what = NSERC Alexander Graham Bell Canada Graduate Scholarship - Doctorate
 
 [pub]
 authors = Eric W. Koch; Caleb G. Ward; Stella Offner; Jason Loeppky; Erik Rosolowsky
@@ -29,5 +40,6 @@ cite = MNRAS 471 1506-1530
 arxiv = 1707.05415
 bibcode = 2017MNRAS.471.1506K
 doi = 10.1093/mnras/stx1671
-adscites = 2017/09/03 0
+adscites = 2019/01/04 4
+
 

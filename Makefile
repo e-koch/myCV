@@ -21,22 +21,22 @@ infos = $(wildcard *.txt)
 all: cv.pdf pubs.pdf cv.html pubs.html
 
 cv.tex: $(driver) cv.tmpl.tex $(infos)
-	python $< latex cv.tmpl.tex >$@.new && mv -f $@.new $@
+	python2 $< latex cv.tmpl.tex >$@.new && mv -f $@.new $@
 
 pubs.tex: $(driver) pubs.tmpl.tex $(infos)
-	python $< latex pubs.tmpl.tex >$@.new && mv -f $@.new $@
+	python2 $< latex pubs.tmpl.tex >$@.new && mv -f $@.new $@
 
 cv.html: $(driver) cv.tmpl.html $(infos)
-	python $< html cv.tmpl.html >$@.new && mv -f $@.new $@
+	python2 $< html cv.tmpl.html >$@.new && mv -f $@.new $@
 
 pubs.html: $(driver) pubs.tmpl.html $(infos)
-	python $< html pubs.tmpl.html >$@.new && mv -f $@.new $@
+	python2 $< html pubs.tmpl.html >$@.new && mv -f $@.new $@
 
 summary: $(infos)
-	python $(driver) summarize
+	python2 $(driver) summarize
 
 update-ads:
-	python $(driver) update-cites
+	python2 $(driver) update-cites
 
 clean:
 	-rm -f *.aux *.log *.log2 *.out cv.html cv.pdf cv.tex pubs.html pubs.pdf pubs.tex

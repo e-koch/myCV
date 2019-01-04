@@ -1,0 +1,18 @@
+
+[award]
+date = 2019
+where = University of Alberta/The Ohio State University
+what = NSERC Michael Smith Foreign Study Supplements
+
+[pub]
+authors = Eric W. Koch; Erik W. Rosolowsky; Andreas Schruba; Adam Leroy; Amanda A. Kepley; Jonathan Braine; Julianne Dalcanton; Megan C. Johnson
+title = Relationship between the Line Width of the Atomic and Molecular ISM in M33
+mypos = 1
+refereed = n
+refpreprint = y
+pubdate = 2019/03
+year = 2019
+cite = None
+arxiv = None
+bibcode = None
+doi = None
