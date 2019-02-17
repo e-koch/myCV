@@ -11,7 +11,7 @@ cite = RNAAS 2 24
 arxiv = 1801.10568
 bibcode = 2018RNAAS...2a..24K
 doi = 10.3847/2515-5172/aaac33
-adscites = 2019/01/04 1
+adscites = 2019/02/17 1
 
 [talk]
 date = 2018 May
@@ -36,7 +36,7 @@ cite = ApJ 860 157
 arxiv = 1805.09775
 bibcode = 2018ApJ...860..157B
 doi = 10.3847/1538-4357/aac76d
-adscites = 2019/01/04 0
+adscites = 2019/02/17 0
 
 [pub]
 authors = Eric W. Koch; Erik W. Rosolowsky; Felix J. Lockman; Amanda A. Kepley; Adam Leroy; Andreas Schruba; Jonathan Braine; Julianne Dalcanton; Megan C. Johnson; Snežana Stanimirović
@@ -50,7 +50,7 @@ cite = MNRAS 479 2505-2533
 arxiv = 1806.11218
 bibcode = 2018MNRAS.479.2505K
 doi = 10.1093/mnras/sty1674
-adscites = 2019/01/04 2
+adscites = 2019/02/17 3
 
 [talk]
 date = 2018 July
@@ -80,3 +80,4 @@ year = 2018
 cite = RNAAS 2 220
 bibcode = 2018RNAAS...2d.220K
 doi = 10.3847/2515-5172/aaf508adscites = 2019/01/04 0
+adscites = 2019/02/17 1
