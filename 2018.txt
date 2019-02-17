@@ -64,6 +64,11 @@ where = CHANG-ES Team Meeting, Calgary, Canada
 what = De-obfuscating HI & CO Comparisons in M33
 invited = n
 
+[award]
+date = 2018
+where = University of Alberta
+what = Queen Elizabeth II PhD Scholarship
+
 [outreach]
 date = 2018 December
 what = Unravelling Star Formation
