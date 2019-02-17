@@ -4,6 +4,12 @@ date = 2019
 where = University of Alberta/The Ohio State University
 what = NSERC Michael Smith Foreign Study Supplements
 
+[talk]
+date = 2019 January
+where = Big Apple Magnetic Fields Workshop, New York, USA
+what = Turbustat: Python-based turbulence statistics
+invited = n
+
 [pub]
 authors = Eric W. Koch; Erik W. Rosolowsky; Andreas Schruba; Adam Leroy; Amanda A. Kepley; Jonathan Braine; Julianne Dalcanton; Megan C. Johnson
 title = Relationship between the Line Width of the Atomic and Molecular ISM in M33
