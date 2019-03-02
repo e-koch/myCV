@@ -22,3 +22,9 @@ cite = None
 arxiv = 1902.05007
 bibcode = None
 doi = 10.1093/mnras/stz484
+
+[talk]
+date = 2019 March
+where = University of Texas ISM Seminar, Austin, USA
+what = Connecting atomic and molecular ISM kinematics on cloud scales in M33
+invited = n
