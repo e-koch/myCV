@@ -18,10 +18,16 @@ infos = $(wildcard *.txt)
 
 # Rules:
 
-all: cv.pdf pubs.pdf cv.html pubs.html
+all: cv.pdf cv_short.pdf cv_nopubs.pdf pubs.pdf cv.html pubs.html
 
 cv.tex: $(driver) cv.tmpl.tex $(infos)
 	python2 $< latex cv.tmpl.tex >$@.new && mv -f $@.new $@
+
+cv_short.tex: $(driver) cv_short.tmpl.tex $(infos)
+	python2 $< latex cv_short.tmpl.tex >$@.new && mv -f $@.new $@
+
+cv_nopubs.tex: $(driver) cv_short.tmpl.tex $(infos)
+	python2 $< latex cv_nopubs.tmpl.tex >$@.new && mv -f $@.new $@
 
 pubs.tex: $(driver) pubs.tmpl.tex $(infos)
 	python2 $< latex pubs.tmpl.tex >$@.new && mv -f $@.new $@
@@ -39,7 +45,7 @@ update-ads:
 	python2 $(driver) update-cites
 
 clean:
-	-rm -f *.aux *.log *.log2 *.out cv.html cv.pdf cv.tex pubs.html pubs.pdf pubs.tex
+	-rm -f *.aux *.log *.log2 *.out *.html *.pdf cv.tex cv_short.tex cv_nopubs.tex pubs.html pubs.pdf pubs.tex
 
 %.pdf: %.tex
 	@echo + making $@ -- error messages are in $*.log2 if anything goes wrong

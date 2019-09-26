@@ -2,22 +2,25 @@
 [award]
 date = 2014
 where = University of Alberta
-what = NSERC Canadian Graduate Scholarship - Masters
+what = Natural Sciences and Engineering Research Council of Canada Alexander Graham Bell Canada Graduate Scholarship - Masters
+selected = y
 
 [award]
 date = 2014
 where = University of British Columbia, Okanagan
 what = Distinguished Graduate Award - Physics, Math, Statistics & Computer Science
+selected = y
 
 [award]
 date = 2010-2014
 where = University of British Columbia, Okanagan
 what = Deputy Vice Chancellor Scholarship
+selected = y
 
 [job]
 date = 2014–present
 where = University of Alberta
-what = Graduate Student
+what = Graduate Research and Teaching Assistant
 
 [pub]
 authors = E.W. Koch; A. Bahramian; C.O. Heinke; K. Mori;
@@ -32,10 +35,10 @@ cite = MNRAS 442 372-381
 arxiv = 1405.0267
 bibcode = 2014MNRAS.442..372K
 doi = 10.1093/mnras/stu887
-adscites = 2019/02/17 4
+adscites = 2019/09/26 4
 
 [talk]
-date = 2014 Apr
-where = UBC-O Undergraduate Research Conference (Kelowna)
+date = 2014 April
+where = UBC-O Undergraduate Research Conference (Kelowna, Canada)
 what = Filament Identification through Mathematical Morphology
 invited = n

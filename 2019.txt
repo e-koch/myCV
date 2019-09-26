@@ -2,13 +2,14 @@
 [award]
 date = 2019
 where = University of Alberta/The Ohio State University
-what = NSERC Michael Smith Foreign Study Supplements
+what = Natural Sciences and Engineering Research Council of Canada Michael Smith Foreign Study Supplements
+selected = y
 
 [talk]
 date = 2019 January
 where = Big Apple Magnetic Fields Workshop, New York, USA
 what = Turbustat: Python-based turbulence statistics
-invited = n
+invited = y
 
 [pub]
 authors = Eric W. Koch; Erik W. Rosolowsky; Andreas Schruba; Adam Leroy; Amanda A. Kepley; Jonathan Braine; Julianne Dalcanton; Megan C. Johnson
@@ -16,15 +17,84 @@ title = Relationship between the Line Width of the Atomic and Molecular ISM in M
 mypos = 1
 refereed = y
 refpreprint = n
-pubdate = 2019/02
+pubdate = 2019/05
 year = 2019
-cite = None
+cite = MNRAS 485 2324
 arxiv = 1902.05007
-bibcode = None
+bibcode = 2019MNRAS.485.2324K
 doi = 10.1093/mnras/stz484
+adscites = 2019/09/26 1
 
 [talk]
 date = 2019 March
-where = University of Texas ISM Seminar, Austin, USA
+where = University of Texas, Austin, USA
 what = Connecting atomic and molecular ISM kinematics on cloud scales in M33
+invited = n
+
+[talk]
+date = 2019 March
+where = NRAO, Charlottesville, USA
+what = Connecting atomic and molecular ISM kinematics on cloud scales in M33
+invited = n
+
+[talk]
+date = 2019 April
+where = Green Bank Telescope, Green Bank, USA
+what = Connecting atomic and molecular ISM kinematics on cloud scales in M33
+invited = n
+
+[talk]
+date = 2019 April
+where = Center for Astrophysics, Cambridge, USA
+what = Connecting atomic and molecular ISM kinematics on cloud scales in M33
+invited = n
+
+[pub]
+authors = Eric W. Koch; Erik W. Rosolowsky; Ryan D. Boyden; Blakesley Burkhart; Adam Ginsburg; Jason L. Loeppky; Stella S. R. Offner
+title = TurbuStat: Turbulence Statistics in Python
+mypos = 1
+refereed = y
+refpreprint = n
+pubdate = 2019/05
+year = 2019
+cite = AJ 158 1
+arxiv = 1904.10484
+bibcode = 2019AJ....158....1K
+doi = 10.3847/1538-3881/ab1cc0
+adscites = 2019/09/26 1
+
+[outreach]
+date = 2019 May
+what = Frigid Fuel for Star Formation
+where = Pint of Science
+
+[poster]
+date = 2019 June
+where = Linking the Milky Way and Nearby Galaxies, Helsinki, Finland
+what = Connecting atomic and molecular ISM kinematics on cloud scales in M33
+invited = n
+
+[award]
+date = 2019
+where = University of Alberta
+what = Andrew Stewart Memorial Graduate Prize
+selected = y
+
+[pub]
+authors = C. O. Heinke; M. G. Ivanov; E. W. Koch; R. Andrews; L. Chomiuk; H. N. Cohn; S. Crothers; T. de Boer; N. Ivanova; A. K. H. Kong; N. Leigh; P. M. Lugger; L. Nelson; C. J. Parr; E. W. Rosolowsky; A. J. Ruiter; C. L. Sarazin; A. W. Shaw; G. R. Sivakoff; M. van den Berg
+title = The X-ray Emissivity of Low-Density Stellar Populations
+mypos = 3
+refereed = n
+refpreprint = y
+pubdate = 2019/12
+year = 2019
+cite = MNRAS submitted
+arxiv = None
+bibcode = None
+doi = None
+
+[talk]
+date = 2019 September
+where = So-Star, Paris, France
+what = HI & CO kinematic on molecular cloud scales in the Local Group
 invited = n

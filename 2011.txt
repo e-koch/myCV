@@ -1,0 +1,4 @@
+[job]
+date = 2011-2014
+where = University of British Columbia, Okanagan
+what = Undergraduate Teaching Assistant

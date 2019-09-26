@@ -2,7 +2,8 @@
 [award]
 date = 2015
 where = University of Alberta
-what = Queen Elizabeth II MSc Scholarship
+what = Queen Elizabeth II Graduate Scholarship - Masters
+selected = y
 
 [grant]
 date = 2015
@@ -35,7 +36,7 @@ cite = MNRAS 452 3435-3450
 arxiv = 1507.02289
 bibcode = 2015MNRAS.452.3435K
 doi = 10.1093/mnras/stv1521
-adscites = 2019/02/17 38
+adscites = 2019/09/26 49
 
 [talk]
 date = 2015 May

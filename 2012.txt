@@ -3,8 +3,10 @@
 date = 2012
 where = University of British Columbia, Okanagan
 what = Second Year Physics Award - Honourable Mention
+selected = n
 
 [award]
 date = 2012
 where = University of British Columbia, Okanagan
-what = NSERC USRA
+what = Natural Sciences and Engineering Research Council of Canada Undergraduate Summer Research Award
+selected = y

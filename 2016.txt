@@ -1,25 +1,27 @@
 
 [talk]
-date = 2016 Feb
-where = MPIfR - Special Colloquium
+date = 2016 February
+where = Max Planck Institute for Radio Astronomy
 what = Comparing Simulations and Observations of Star Formation using Experimental Design
 invited = n
 
 [talk]
-date = 2016 Feb
-where = MPE - CAS Seminar
+date = 2016 February
+where = Max Planck Institute for Extraterrestrial Physics
 what = Comparing Simulations and Observations of Star Formation using Experimental Design
 invited = n
 
 [award]
 date = 2016
 where = University of Alberta
-what = NSERC Post-graduate Graduate Scholarship - Doctorate
+what = Natural Sciences and Engineering Research Council of Canada Postgraduate Scholarship - Doctoral
+selected = y
 
 [talk]
-date = 2016 Aug
+date = 2016 August
 where = Lorentz Centre - Apples to Apples Workshop
 what = Identifying Tools for Comparing Simulations and Observations of Star-forming Regions
+invited = n
 
 [pub]
 title = Cloud Structure of Galactic OB Cluster-forming Regions from Combining Ground and Space-based Bolometric Observations
@@ -31,7 +33,7 @@ arxiv = 1606.07645
 doi = 10.3847/0004-637X/828/1/32
 refereed = y
 cite = ApJ 828 32
-adscites = 2019/02/17 18
+adscites = 2019/09/26 21
 
 [pub]
 title = An Exploration of the Statistical Signatures of Stellar Feedback
@@ -43,9 +45,14 @@ arxiv = 1611.00781
 refereed = y
 cite = ApJ 833 233
 doi = 10.3847/1538-4357/833/2/233
-adscites = 2019/02/17 6
+adscites = 2019/09/26 9
 
 [outreach]
-date = 2016 - 2018
+date = 2016 - 2018; 2019-Present
 what = Public Observing & School Tours
 where = University of Alberta Observatory
+
+[teaching]
+date = 2014-2018
+where = University of Alberta
+what = Teaching Assistant for Physics and Astronomy labs
