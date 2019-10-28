@@ -1,7 +1,7 @@
 % Peter Williams' LaTeX CV template.
 % This work is dedicated to the public domain.
 
-\documentclass[letterpaper,12pt]{article}
+\documentclass[letterpaper,11pt]{article}
 
 % Basic settings for your convenience!
 
@@ -113,15 +113,16 @@ TODAY.
 \begin{datelist}
 % This is entered manually to get the extra PhD info. It's not like this list
 % is expected to change ...
-\item[2016-Present]
+\item[2016-expected July 2020]
   \emph{University of Alberta} \\
   PhD. (Physics) \\
-  Adviser: Erik Rosolowsky
+  Thesis: {``The Molecular and Atomic Interstellar Medium in the Local Group''} \\
+  Adviser: Prof. Erik Rosolowsky
 \item[2014-2016]
   \emph{University of Alberta} \\
   MSc. (Physics) \\
   Thesis: {``The Atomic Interstellar Medium in M33''} \\
-  Adviser: Erik Rosolowsky
+  Adviser: Prof. Erik Rosolowsky
 \item[2010-2014]
   \emph{University of British Columbia} \\
   Hon. BSc. (Physics)
@@ -129,42 +130,32 @@ TODAY.
 
 FORMAT \item[|date|] \emph{|where|} \\ |what|
 
-% \section*{Employment}
-% \begin{datelist}
-% RMISCLIST job
-% \end{datelist}
-
-\section*{Fellowships and Awards}
+\section*{Employment}
 \begin{datelist}
-RMISCLIST award
+RMISCLIST job
 \end{datelist}
-
-FORMAT \item[|rev_number|.] |full_authors|. \textit{``|quotable_title|.''} |year|, |lcite|.
-
-\section*{Publications}
-
-\subsection*{Refereed}
-
-\begin{publist}
-PUBLIST refereed_rev
-\end{publist}
-
-% \subsection*{Submitted}
-
-% \begin{publist}
-% PUBLIST refpreprint_rev
-% \end{publist}
-
-\subsection*{Non-refereed}
-
-\begin{publist}
-PUBLIST non_refereed_rev
-\end{publist}
 
 % \section*{Research Interests}
 % \begin{itemize}
+% \item Molecular cloud evolution, formation, and destruction
+% \item Sources of turbulent driving, and the turbulent cascade from galaxy to cloud scales.
+% \item Developing diagnostics of ISM structure
 % \item
 % \end{itemize}
+
+
+\section*{Awards}
+\begin{datelist}
+RMISCLIST_IF award selected
+\end{datelist}
+
+% FORMAT \item[|date|] \textbf{|am_pi|} - \emph{|what|} \\ |source| \\ \textbf{|amount|}
+
+% \section*{External Funding}
+% \begin{datelist}
+% RMISCLIST grant
+% \end{datelist}
+
 
 FORMAT \item[|date|] \emph{|where|} \\ ``|what|''
 
@@ -188,30 +179,54 @@ RMISCLIST poster
 % RMISCLIST_IF_NOT talk invited
 % \end{datelist}
 
-\section*{Service}
+\section*{Observing Experience}
+\begin{itemize}
+\item Three VLA projects as PI (180 hours awarded; 16B-236, 16B-242, 17B-162); one as co-I (24 hours awarded; 19B-037)
+\item One ALMA project as PI (8 hours awarded; 2019.1.01039.S); two as co-I (22 hours awarded; 2017.1.00901.S, 2019.1.01182.S)
+\item One GBT project as PI (41 hours awarded; 19B-221)
+\item One NOEMA project as co-I (16 hours awarded; W15BR)
+\end{itemize}
+
+\section*{Professional Service}
 \begin{datelist}
 
-\item[2018-Present] Referee for MNRAS
-\item[2017-Present] Seminar and journal club organizer for UAlbert Astronomy Group
+\item[2018-Present] Referee for Monthly Notices of the Royal Astronomical Society
+\item[2017-Present] Seminar and journal club organizer for UAlberta Astronomy Group
+\item[2017-Present] Student Member of Canadian Astronomical Society (CASCA)
 \item[2016-2017] UAlberta representative on the Canadian Astronomical Society Graduate Student Committee
-\item[2013-2014] Physics representative on Quantitative Sciences Course Union Council
+\item[2013-2014] UBC-Okanagan Physics representative on Quantitative Sciences Course Union Council
 
 \end{datelist}
 
-\section*{Observing Experience}
-\begin{itemize}
-\item Three VLA projects as PI (180 hours awarded); one as co-I (24 hours awarded)
-\item One ALMA project as PI (8 hours awarded); one as co-I (22 hours awarded)
-\item One GBT project as PI (41 hours awarded)
-\item One NOEMA project as co-I (16 hours awarded)
-\end{itemize}
+
+\section*{Research Advising}
+
+I have acted as a research advisor for three undergraduate students at the University of Alberta, supervised by Prof. Erik Rosolowsky.
+\vspace{0.1in}
+\begin{datelist}
+% This is entered manually to get the extra PhD info. It's not like this list
+% is expected to change ...
+\item[Summer 2018]
+  \emph{Interpreting filaments in three dimensions} \\
+  Dewanshu Haswani \\
+  MITACS Internship
+\item[Fall 2018]
+  \emph{Spiral Arm Propagation in M33 and its Implications on Molecular Cloud Formation} \\
+  Steffen Senchyna \\
+  Physics 499 Honours Research Project
+\item[Fall 2018]
+  \emph{ISM Properties near Supernova Remnants in M33} \\
+  Weizhuo Zhang \\
+  Physics 499 Honours Research Project
+\end{datelist}
+
 
 % FORMAT \item[|date|] \emph{|where|} \\ |what|
 
-\section*{Teaching}
-\begin{datelist}
-RMISCLIST teaching
-\end{datelist}
+% \section*{Teaching}
+% \begin{datelist}
+% RMISCLIST teaching
+% \end{datelist}
 
 % FORMAT \item[|date|] |what|
 
@@ -219,5 +234,29 @@ RMISCLIST teaching
 \begin{datelist}
 RMISCLIST outreach
 \end{datelist}
+
+
+FORMAT \item[|rev_number|.] |full_authors|. \textit{``|quotable_title|.''} |year|, |lcite|.
+
+\section*{Publications}
+
+\subsection*{Refereed}
+
+\begin{publist}
+PUBLIST refereed_rev
+\end{publist}
+
+\subsection*{Submitted}
+
+\begin{publist}
+PUBLIST refpreprint_rev
+\end{publist}
+
+\subsection*{Non-refereed}
+
+\begin{publist}
+PUBLIST non_refereed_rev
+\end{publist}
+
 
 \end{document}

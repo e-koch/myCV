@@ -14,12 +14,12 @@ selected = y
 [job]
 date = 2013-2014
 where = University of British Columbia, Okanagan
-what = Undergraduate Research Assistant
+what = Undergraduate Research Assistant with Prof. Jason Loeppky
 
 [award]
 date = 2013
 where = University of Alberta
-what = Natural Sciences and Engineering Research Council of Canada Undergraduate Summer Research Award
+what = Natural Sciences and Engineering Research Council of Canada Undergraduate Summer Research Award with Prof. Craig Heinke
 selected = y
 
 [teaching]

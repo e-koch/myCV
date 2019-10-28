@@ -2,7 +2,7 @@
 [award]
 date = 2019
 where = University of Alberta/The Ohio State University
-what = Natural Sciences and Engineering Research Council of Canada Michael Smith Foreign Study Supplements
+what = Natural Sciences and Engineering Research Council of Canada Michael Smith Foreign Study Supplements with Prof. Adam Leroy
 selected = y
 
 [talk]
@@ -23,7 +23,7 @@ cite = MNRAS 485 2324
 arxiv = 1902.05007
 bibcode = 2019MNRAS.485.2324K
 doi = 10.1093/mnras/stz484
-adscites = 2019/09/26 1
+adscites = 2019/10/28 1
 
 [talk]
 date = 2019 March
@@ -61,12 +61,12 @@ cite = AJ 158 1
 arxiv = 1904.10484
 bibcode = 2019AJ....158....1K
 doi = 10.3847/1538-3881/ab1cc0
-adscites = 2019/09/26 1
+adscites = 2019/10/28 1
 
 [outreach]
 date = 2019 May
 what = Frigid Fuel for Star Formation
-where = Pint of Science
+where = Pint of Science, Edmonton, Canada
 
 [poster]
 date = 2019 June
@@ -96,5 +96,24 @@ doi = None
 [talk]
 date = 2019 September
 where = So-Star, Paris, France
-what = HI & CO kinematic on molecular cloud scales in the Local Group
+what = HI & CO kinematics on molecular cloud scales in the Local Group
 invited = n
+
+[outreach]
+date = 2019 October
+what = Judge for NASA/CSA Space Apps Challenge
+where = Edmonton, Canada
+
+
+[pub]
+authors = E.W. Koch; I. Chiang; D. Utomo; J. Chastenet; A.K. Leroy; E.W. Rosolowsky; K.M. Sandstrom
+title = Spatial Power Spectra of Dust across the Local Group: No Constraint on Disc Scale Height
+mypos = 1
+refereed = n
+refpreprint = y
+pubdate = 2019/12
+year = 2019
+cite = MNRAS submitted
+arxiv = None
+bibcode = None
+doi = None

@@ -14,7 +14,7 @@ invited = n
 [award]
 date = 2016
 where = University of Alberta
-what = Natural Sciences and Engineering Research Council of Canada Postgraduate Scholarship - Doctoral
+what = Natural Sciences and Engineering Research Council of Canada Postgraduate Scholarship - Doctorate
 selected = y
 
 [talk]
@@ -33,7 +33,7 @@ arxiv = 1606.07645
 doi = 10.3847/0004-637X/828/1/32
 refereed = y
 cite = ApJ 828 32
-adscites = 2019/09/26 21
+adscites = 2019/10/28 21
 
 [pub]
 title = An Exploration of the Statistical Signatures of Stellar Feedback
@@ -45,7 +45,7 @@ arxiv = 1611.00781
 refereed = y
 cite = ApJ 833 233
 doi = 10.3847/1538-4357/833/2/233
-adscites = 2019/09/26 9
+adscites = 2019/10/28 9
 
 [outreach]
 date = 2016 - 2018; 2019-Present
