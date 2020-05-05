@@ -11,13 +11,14 @@ cite = RNAAS 2 24
 arxiv = 1801.10568
 bibcode = 2018RNAAS...2a..24K
 doi = 10.3847/2515-5172/aaac33
-adscites = 2019/10/28 1
+adscites = 2020/05/05 1
 
 [talk]
 date = 2018 May
 where = Olympian Symposium, Paralia Katerini, Greece
 what = Spatially-Varying Turbulent Properties in M33
 invited = n
+selected = y
 
 [outreach]
 date = 2018 May
@@ -36,7 +37,7 @@ cite = ApJ 860 157
 arxiv = 1805.09775
 bibcode = 2018ApJ...860..157B
 doi = 10.3847/1538-4357/aac76d
-adscites = 2019/10/28 4
+adscites = 2020/05/05 5
 
 [pub]
 authors = Eric W. Koch; Erik W. Rosolowsky; Felix J. Lockman; Amanda A. Kepley; Adam Leroy; Andreas Schruba; Jonathan Braine; Julianne Dalcanton; Megan C. Johnson; Snežana Stanimirović
@@ -50,19 +51,21 @@ cite = MNRAS 479 2505-2533
 arxiv = 1806.11218
 bibcode = 2018MNRAS.479.2505K
 doi = 10.1093/mnras/sty1674
-adscites = 2019/10/28 6
+adscites = 2020/05/05 9
 
 [talk]
 date = 2018 July
 where = PHAT/M33 Team Meeting, Ringberg, Germany
 what = Atomic Gas in M31 and M33
 invited = n
+selected = y
 
 [talk]
 date = 2018 August
 where = CHANG-ES Team Meeting, Calgary, Canada
 what = De-obfuscating HI & CO Comparisons in M33
 invited = n
+selected = y
 
 [award]
 date = 2018
@@ -85,5 +88,5 @@ pubdate = 2018/12
 year = 2018
 cite = RNAAS 2 220
 bibcode = 2018RNAAS...2d.220K
-doi = 10.3847/2515-5172/aaf508adscites = 2019/01/04 0
-adscites = 2019/10/28 3
+doi = 10.3847/2515-5172/aaf508
+adscites = 2020/05/05 3

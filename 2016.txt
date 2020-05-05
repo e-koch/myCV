@@ -10,6 +10,7 @@ date = 2016 February
 where = Max Planck Institute for Extraterrestrial Physics
 what = Comparing Simulations and Observations of Star Formation using Experimental Design
 invited = n
+selected = y
 
 [award]
 date = 2016
@@ -22,6 +23,7 @@ date = 2016 August
 where = Lorentz Centre - Apples to Apples Workshop
 what = Identifying Tools for Comparing Simulations and Observations of Star-forming Regions
 invited = n
+selected = y
 
 [pub]
 title = Cloud Structure of Galactic OB Cluster-forming Regions from Combining Ground and Space-based Bolometric Observations
@@ -33,7 +35,7 @@ arxiv = 1606.07645
 doi = 10.3847/0004-637X/828/1/32
 refereed = y
 cite = ApJ 828 32
-adscites = 2019/10/28 21
+adscites = 2020/05/05 24
 
 [pub]
 title = An Exploration of the Statistical Signatures of Stellar Feedback
@@ -45,7 +47,7 @@ arxiv = 1611.00781
 refereed = y
 cite = ApJ 833 233
 doi = 10.3847/1538-4357/833/2/233
-adscites = 2019/10/28 9
+adscites = 2020/05/05 11
 
 [outreach]
 date = 2016 - 2018; 2019-Present

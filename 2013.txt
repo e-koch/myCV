@@ -32,6 +32,7 @@ date = 2013 April
 where = UBC-O Undergraduate Research Conference (Kelowna, Canada)
 what = Converging Flows in Star-Forming Regions
 invited = n
+selected = n
 
 [poster]
 date = 2013 June
@@ -44,3 +45,4 @@ date = 2013 November
 where = UBC-O Brown Bag Series (Kelowna, Canada)
 what = A New Low-Mass X-Ray Binary in the Galactic Centre
 invited = y
+selected = n

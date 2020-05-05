@@ -35,10 +35,11 @@ cite = MNRAS 442 372-381
 arxiv = 1405.0267
 bibcode = 2014MNRAS.442..372K
 doi = 10.1093/mnras/stu887
-adscites = 2019/10/28 4
+adscites = 2020/05/05 4
 
 [talk]
 date = 2014 April
 where = UBC-O Undergraduate Research Conference (Kelowna, Canada)
 what = Filament Identification through Mathematical Morphology
 invited = n
+selected = n

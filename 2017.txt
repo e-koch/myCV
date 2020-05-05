@@ -15,13 +15,14 @@ cite = ApJ 840 22
 arxiv = 1704.06448
 bibcode = 2017ApJ...840...22L
 doi = 10.3847/1538-4357/aa6c67
-adscites = 2019/10/28 13
+adscites = 2020/05/05 17
 
 [talk]
 date = 2017 June
 where = Canadian Astronomical Society (CASCA) Meeting, Edmonton, Canada
 what = Linking the Atomic and Molecular ISM in M33
 invited = n
+selected = y
 
 [award]
 date = 2017-2019
@@ -41,6 +42,6 @@ cite = MNRAS 471 1506-1530
 arxiv = 1707.05415
 bibcode = 2017MNRAS.471.1506K
 doi = 10.1093/mnras/stx1671
-adscites = 2019/10/28 9
+adscites = 2020/05/05 13
 
 

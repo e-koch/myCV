@@ -6,9 +6,9 @@
 % Basic settings for your convenience!
 
 \newcommand{\myname}{Eric W. Koch}
-\newcommand{\myaffil}{Dept. of Physics, University of Alberta}
+\newcommand{\myaffil}{4-181 CCIS, Dept. of Physics}
 \newcommand{\myemail}{ekoch@ualberta.ca}
-\newcommand{\mypostlineone}{4-181 CCIS, University of Alberta}
+\newcommand{\mypostlineone}{University of Alberta}
 \newcommand{\mypostlinetwo}{Edmonton, AB T6G 2E1}
 \newcommand{\mysite}{e-koch.github.io}
 \newcommand{\myorcid}{https://orcid.org/0000-0001-9605-780X}
@@ -105,8 +105,8 @@
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Here's where we actually start using the templates.
 
-Updated % note: must have this awkward newline for the simpleminded templater:
-TODAY.
+% Updated % note: must have this awkward newline for the simpleminded templater:
+% TODAY.
 % The latest version of this document is online at the website listed above.
 
 \section*{Education}
@@ -149,19 +149,19 @@ RMISCLIST job
 RMISCLIST_IF award selected
 \end{datelist}
 
-% FORMAT \item[|date|] \textbf{|am_pi|} - \emph{|what|} \\ |source| \\ \textbf{|amount|}
+FORMAT \item[|date|] \textbf{|am_pi|} - \emph{|what|} \\ |source| \\ \textbf{|amount|}
 
-% \section*{External Funding}
-% \begin{datelist}
-% RMISCLIST grant
-% \end{datelist}
+\section*{External Funding}
+\begin{datelist}
+RMISCLIST_IF grant selected
+\end{datelist}
 
 
 FORMAT \item[|date|] \emph{|where|} \\ ``|what|''
 
 \section*{Professional Talks}
 \begin{datelist}
-RMISCLIST talk
+RMISCLIST_IF talk selected
 \end{datelist}
 
 \section*{Poster Presentations}
@@ -191,10 +191,10 @@ RMISCLIST poster
 \begin{datelist}
 
 \item[2018-Present] Referee for Monthly Notices of the Royal Astronomical Society
-\item[2017-Present] Seminar and journal club organizer for UAlberta Astronomy Group
-\item[2017-Present] Student Member of Canadian Astronomical Society (CASCA)
+\item[2017-2019] Seminar and journal club organizer for UAlberta Astronomy Group
+\item[2017-2018] Student Member of Canadian Astronomical Society (CASCA)
 \item[2017] U. Alberta Graduate Teaching and Learning Level 1 Certificate -- 14 hrs. of workshops
-\item[2016-2017] U. Alberta representative on the Canadian Astronomical Society Graduate Student Committee
+\item[2017] U. Alberta representative on the Canadian Astronomical Society Graduate Student Committee
 \item[2013-2014] UBC-Okanagan Physics representative on Quantitative Sciences Course Union Council
 
 \end{datelist}
@@ -250,6 +250,14 @@ RMISCLIST outreach
 FORMAT \item[|rev_number|.] |full_authors|. \textit{``|quotable_title|.''} |year|, |lcite||citecountnote|.
 
 \section*{Publications}
+
+BEGIN_SUBST cite_stats
+I have authored |refpubs| refereed publications (|reffirstauth| as first author) and
+% my \textit{h}-index was
+my publications have |refcites| citations.
+I currently have two papers under review.
+END
+
 
 \subsection*{Refereed}
 

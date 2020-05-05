@@ -10,6 +10,7 @@ date = 2019 January
 where = Big Apple Magnetic Fields Workshop, New York, USA
 what = Turbustat: Python-based turbulence statistics
 invited = y
+selected = y
 
 [pub]
 authors = Eric W. Koch; Erik W. Rosolowsky; Andreas Schruba; Adam Leroy; Amanda A. Kepley; Jonathan Braine; Julianne Dalcanton; Megan C. Johnson
@@ -23,31 +24,35 @@ cite = MNRAS 485 2324
 arxiv = 1902.05007
 bibcode = 2019MNRAS.485.2324K
 doi = 10.1093/mnras/stz484
-adscites = 2019/10/28 1
+adscites = 2020/05/05 2
 
 [talk]
 date = 2019 March
 where = University of Texas, Austin, USA
 what = Connecting atomic and molecular ISM kinematics on cloud scales in M33
 invited = n
+selected = y
 
 [talk]
 date = 2019 March
 where = NRAO, Charlottesville, USA
 what = Connecting atomic and molecular ISM kinematics on cloud scales in M33
 invited = n
+selected = y
 
 [talk]
 date = 2019 April
 where = Green Bank Telescope, Green Bank, USA
 what = Connecting atomic and molecular ISM kinematics on cloud scales in M33
 invited = n
+selected = y
 
 [talk]
 date = 2019 April
 where = Center for Astrophysics, Cambridge, USA
 what = Connecting atomic and molecular ISM kinematics on cloud scales in M33
 invited = n
+selected = y
 
 [pub]
 authors = Eric W. Koch; Erik W. Rosolowsky; Ryan D. Boyden; Blakesley Burkhart; Adam Ginsburg; Jason L. Loeppky; Stella S. R. Offner
@@ -61,7 +66,7 @@ cite = AJ 158 1
 arxiv = 1904.10484
 bibcode = 2019AJ....158....1K
 doi = 10.3847/1538-3881/ab1cc0
-adscites = 2019/10/28 1
+adscites = 2020/05/05 6
 
 [outreach]
 date = 2019 May
@@ -80,40 +85,22 @@ where = University of Alberta
 what = Andrew Stewart Memorial Graduate Prize
 selected = y
 
-[pub]
-authors = C. O. Heinke; M. G. Ivanov; E. W. Koch; R. Andrews; L. Chomiuk; H. N. Cohn; S. Crothers; T. de Boer; N. Ivanova; A. K. H. Kong; N. Leigh; P. M. Lugger; L. Nelson; C. J. Parr; E. W. Rosolowsky; A. J. Ruiter; C. L. Sarazin; A. W. Shaw; G. R. Sivakoff; M. van den Berg
-title = The X-ray Emissivity of Low-Density Stellar Populations
-mypos = 3
-refereed = n
-refpreprint = y
-pubdate = 2019/12
-year = 2019
-cite = MNRAS submitted
-arxiv = None
-bibcode = None
-doi = None
-
 [talk]
 date = 2019 September
 where = So-Star, Paris, France
 what = HI & CO kinematics on molecular cloud scales in the Local Group
 invited = n
+selected = y
 
 [outreach]
 date = 2019 October
 what = Judge for NASA/CSA Space Apps Challenge
 where = Edmonton, Canada
 
-
-[pub]
-authors = E.W. Koch; I. Chiang; D. Utomo; J. Chastenet; A.K. Leroy; E.W. Rosolowsky; K.M. Sandstrom
-title = Spatial Power Spectra of Dust across the Local Group: No Constraint on Disc Scale Height
-mypos = 1
-refereed = n
-refpreprint = y
-pubdate = 2019/12
-year = 2019
-cite = MNRAS submitted
-arxiv = None
-bibcode = None
-doi = None
+[grant]
+date = 2019
+am_pi = co-I
+source = ALMA Development Studies - Cycle 7
+what = Link CASA to the astropy ecosystem
+amount = $199,905 USD
+selected = y

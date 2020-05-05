@@ -1,0 +1,62 @@
+
+[award]
+date = 2020
+where = University of Alberta
+what = Alberta Graduate Excellence Scholarship
+selected = y
+
+[pub]
+authors = E.W. Koch; I. Chiang; D. Utomo; J. Chastenet; A.K. Leroy; E.W. Rosolowsky; K.M. Sandstrom
+title = Spatial Power Spectra of Dust across the Local Group: No Constraint on Disc Scale Height
+mypos = 1
+refereed = y
+refpreprint = n
+pubdate = 2020/02
+year = 2020
+cite = MNRAS 492 2663
+arxiv = 1912.09459
+bibcode = 2020MNRAS.492.2663K
+doi = 10.1093/mnras/stz3582
+adscites = 2020/05/05 0
+
+[pub]
+authors = C. O. Heinke; M. G. Ivanov; E. W. Koch; R. Andrews; L. Chomiuk; H. N. Cohn; S. Crothers; T. de Boer; N. Ivanova; A. K. H. Kong; N. Leigh; P. M. Lugger; L. Nelson; C. J. Parr; E. W. Rosolowsky; A. J. Ruiter; C. L. Sarazin; A. W. Shaw; G. R. Sivakoff; M. van den Berg
+title = The X-ray Emissivity of Low-Density Stellar Populations
+mypos = 3
+refereed = y
+refpreprint = n
+pubdate = 2020/03
+year = 2020
+cite = MNRAS 492 5684
+arxiv = 2001.09476
+bibcode = 2020MNRAS.492.5684H
+doi = 10.1093/mnras/staa194
+adscites = 2020/05/05 0
+
+[pub]
+authors = J.D. Henshaw; J.M.D. Kruijssen; S.N. Longmore; M. Riener; A.K. Leroy; E. Rosolowsky; A. Ginsburg; C. Battersby; M. Chevance; S.E. Meidt; S.C.O. Glover; A. Hughes; J. Kainulainen; R.S. Klessen; E. Schinnerer; A. Schruba; H. Beuther;  F. Bigiel; G.A. Blanc; E. Emsellem; T. Henning; C.N. Herrera; E.W. Koch; J. Pety; S.E. Ragan; J. Sun
+title = Ubiquitous velocity fluctuations throughout the molecular interstellar medium
+mypos = 23
+refereed = n
+refpreprint = y
+pubdate = 2020/05
+year = 2020
+cite = NatAs in press
+arxiv = None
+bibcode = None
+doi = None
+
+[pub]
+authors = N. Krieger; A.D. Bolatto; E.W. Koch; A.K. Leroy; E. Rosolowsky; F. Walter; A. Weiss; D.J. Eden; R.C. Levy; D.S. Meier; E.A.C. Mills; T. Moore; J. Ott; Y. Su; S. Veilleux
+title = The turbulent gas structure in the centers of NGC253 and the Milky Way
+mypos = 3
+refereed = n
+refpreprint = y
+pubdate = 2020/05
+year = 2020
+cite = ApJ submitted
+arxiv = None
+bibcode = None
+doi = None
+
+

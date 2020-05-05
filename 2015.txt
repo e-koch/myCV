@@ -11,6 +11,7 @@ am_pi = PI
 source = Amazon Web Services & Square Kilometre Array
 what = Developing a radio cube imaging service in the cloud
 amount = $1500 USD (credits)
+selected = n
 
 [grant]
 date = 2015
@@ -18,6 +19,7 @@ am_pi = Co-I
 source = Amazon Web Services & Square Kilometre Array
 what = Development of an image variability service in the cloud
 amount = $14000 USD (credits)
+selected = n
 
 [grant]
 date = 2015
@@ -25,6 +27,7 @@ am_pi = Co-I
 source = Amazon Web Services & Square Kilometre Array
 what = A centralized database for pan-chromatic nearby galaxy data
 amount = $3200 USD (credits)
+selected = n
 
 [pub]
 authors = Eric W. Koch; Erik W. Rosolowsky
@@ -36,10 +39,11 @@ cite = MNRAS 452 3435-3450
 arxiv = 1507.02289
 bibcode = 2015MNRAS.452.3435K
 doi = 10.1093/mnras/stv1521
-adscites = 2019/10/28 51
+adscites = 2020/05/05 61
 
 [talk]
 date = 2015 May
 where = Florence Simulations-Observations Workshop (Florence, Italy)
 what = Critically Comparing Simulations and Observations of Star Formation
 invited = n
+selected = n
